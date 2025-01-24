@@ -1,7 +1,7 @@
 ##
 ## Turkish
 
-**BASIC JAVA GUIDE**: Java programlamanın temelini anlamak isteyenler için hazırlanmış, sözdizimi, anahtar kavramlar ve pratik örnekleri içeren kısa bir rehber.
+**TEMEL JAVA REHBERİ**: Java programlamanın temelini anlamak isteyenler için hazırlanmış, sözdizimi, anahtar kavramlar ve pratik örnekleri içeren kısa bir rehber.
 
 ## English
 
