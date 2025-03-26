@@ -9,7 +9,7 @@
 
 ##
 
-## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://www.canztrk.wuaze.com/)
+## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://ozturkk.com/)
 
 
 ## Mail Address: cnaosturk34@gmail.com
