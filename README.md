@@ -3,7 +3,7 @@
 ---
 
 ## Türkçe
-**TEMEL JAVA REHBERİ**  
+**TEMEL JAVA REHBERİ** 
 Java programlamanın temelini anlamak isteyenler için hazırlanmış,  
 **sözdizimi, anahtar kavramlar ve pratik örnekleri** içeren kısa bir rehber.  
 
